@@ -9,14 +9,13 @@ I am a **frontend developer** specialized in **React**, with experience in **Nex
 Besides coding, I am passionate about **CrossFit and basketball**, which help me stay energetic and disciplined in my daily life.
 
 ## 🛠️ Technologies & Tools
-- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
-- **Backend**: Node.js, Express
-- **Tools**: Git, GitHub, Vercel, Docker
-- **Databases**: Firebase, PostgreSQL
+- **Frameworks and libraries**: React, Next.js, TypeScript, Tailwind CSS, Redux
+- **Dataviz libraries**: D3, Highcharts, Kendo, eCharts
+- **Tools**: Git, GitHub, Vercel, Netlify
 - **Others**: CI/CD, Testing with Jest and Cypress
 
 ## 📈 GitHub Stats
-![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosnumber9&show_icons=true&theme=tokyonight)
 
 ## 📫 Want to reach me?
 📧 **Email**: [cpinedocsb@gmail.com](mailto:cpinedocsb@gmail.com)  

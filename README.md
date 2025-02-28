@@ -15,11 +15,11 @@ Besides coding, I am passionate about **CrossFit and basketball**, which help me
 - **Others**: CI/CD, Testing with Jest and Cypress
 
 ## 📈 GitHub Stats
-![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosnumber9&show_icons=true&theme=tokyonight)
+![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosnumber9&show_icons=true)
 
 ## 📫 Want to reach me?
 📧 **Email**: [cpinedocsb@gmail.com](mailto:cpinedocsb@gmail.com)  
-💼 **LinkedIn**: [linkedin.com/in/carlos-pinedo-b661a7130](https://www.linkedin.com/in/carlos-pinedo-b661a7130/)  
+💼 **LinkedIn**: [linkedin.com/in/carlos-pinedo-b661a7130](https://www.linkedin.com/in/carlos-pinedo-sanchez/)  
 💻 **Portfolio**: [carlosnumber9.github.io](https://carlosnumber9.github.io)
 
 ---

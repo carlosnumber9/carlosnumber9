@@ -19,7 +19,7 @@ Besides coding, I am passionate about **CrossFit and basketball**, which help me
 
 ## 📫 Want to reach me?
 📧 **Email**: [cpinedocsb@gmail.com](mailto:cpinedocsb@gmail.com)  
-💼 **LinkedIn**: [linkedin.com/in/carlos-pinedo-b661a7130](https://www.linkedin.com/in/carlos-pinedo-sanchez/)  
+💼 **LinkedIn**: [linkedin.com/in/carlos-pinedo-sanchez](https://www.linkedin.com/in/carlos-pinedo-sanchez/)  
 💻 **Portfolio**: [carlosnumber9.github.io](https://carlosnumber9.github.io)
 
 ---

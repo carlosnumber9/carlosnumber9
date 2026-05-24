@@ -98,4 +98,4 @@ Recently exploring deeper workflows around:
 ## Contact
 
 - GitHub: @carlosnumber9
-- LinkedIn: www.linkedin.com/in/carlospinedo
+- [LinkedIn](https://www.linkedin.com/in/carlos-pinedo-sanchez)

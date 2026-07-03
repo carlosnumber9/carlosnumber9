@@ -1,101 +1,53 @@
 ![Me looking for new mails](https://64.media.tumblr.com/d3a31666623cf1599b09505e4191c712/tumblr_mlbi1ja9fn1r1mkubo1_500.gifv)
 
-
 # Carlos Pinedo
 
-Frontend Engineer specialized in building scalable React applications, design systems, and high-performance user experiences.
+Frontend Engineer focused on building scalable React applications, modern frontend architecture and high-performance user experiences.
 
-Currently working on large-scale web and mobile products using React, TypeScript, GraphQL, Redux, and modern frontend architecture patterns.
-
-Focused on:
-- Frontend architecture
-- Performance & UX
-- Design systems
-- Complex state management
-- Mobile/WebView integrations
-- AI-assisted development workflows
+Currently working on large-scale web and mobile products with React, TypeScript, GraphQL and Redux.
 
 ---
 
-## Tech Stack
+## Tech
 
-### Frontend
-React · Next.js · TypeScript · Redux · Tailwind CSS · SCSS · Apollo GraphQL
+**Frontend**
 
-### Data Visualization
-D3 · Highcharts · eCharts · Kendo UI
+React • Next.js • TypeScript • Redux • GraphQL • Tailwind CSS • SCSS
 
-### Tooling & Infrastructure
-Git · GitHub · Vercel · CI/CD · Jest · Cypress
+**Testing & Tooling**
 
-### Additional Experience
-- Adyen payment integrations
-- GraphQL architecture
-- Mobile wrappers with WebView
-- UI libraries & component systems
-- Internationalization (i18n)
-- AI-assisted engineering workflows
-- Performance optimization
+Jest • Cypress • Git • GitHub • Vercel • CI/CD
+
+**Additional**
+
+Design Systems • WebView • Adyen • i18n • D3 • Highcharts • eCharts • AI-assisted development
 
 ---
 
-## What I Build
-
-### Enterprise Frontend Applications
-Development and maintenance of large-scale React applications for web and mobile environments, including complex business flows, GraphQL integrations, and scalable UI architecture.
-
-### Design Systems & UI Engineering
-Building reusable UI libraries and scalable component systems with TypeScript-first approaches and strong focus on developer experience.
-
-### Modern Web Experiences
-Interactive and performant interfaces using modern frontend patterns, animation systems, and responsive architecture.
-
----
-
-## Selected Work
+## Selected Project
 
 ### Marta Pinedo
-Frontend development and design for a professional law firm website built with Next.js and TypeScript.
+
+Professional website for a law firm built with Next.js and TypeScript.
 
 - SEO-oriented architecture
 - Responsive UI
-- Internationalization support
-- Modern legal branding
-- Performance-focused implementation
+- Internationalization
+- Performance-first implementation
 
 🔗 https://www.martapinedoabogada.es
 
 ---
 
-## Engineering Philosophy
+## GitHub Activity
 
-I enjoy building frontend systems that balance:
-- scalability
-- clean architecture
-- maintainability
-- user experience
-- developer experience
-
-Recently exploring deeper workflows around:
-- AI-assisted software development
-- frontend architecture patterns
-- advanced UI animation
-- performance engineering
-
----
-
-## Currently Interested In
-
-- Advanced React architecture
-- Motion & interactive UI
-- AI-powered engineering workflows
-- Web performance
-- Design systems at scale
-- Frontend infrastructure
+<p align="center">
+  <img src="./github-metrics.svg" width="100%">
+</p>
 
 ---
 
 ## Contact
 
-- GitHub: @carlosnumber9
-- [LinkedIn](https://www.linkedin.com/in/carlos-pinedo-sanchez)
+- GitHub: **@carlosnumber9**
+- LinkedIn: https://www.linkedin.com/in/carlos-pinedo-sanchez

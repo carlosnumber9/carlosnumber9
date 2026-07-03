@@ -2,21 +2,41 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 6 * * *" # Todos los días a las 06:00 UTC
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  metrics:
+  isocalendar:
     runs-on: ubuntu-latest
+
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: carlosnumber9
-          filename: metrics.plugin.calendar.svg
+
+          filename: metrics.plugin.isocalendar.svg
+
           base: ""
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+  activity:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: carlosnumber9
+
+          filename: metrics.plugin.activity.svg
+
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all

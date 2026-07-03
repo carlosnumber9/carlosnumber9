@@ -2,52 +2,46 @@
 
 # Carlos Pinedo
 
-Frontend Engineer focused on building scalable React applications, modern frontend architecture and high-performance user experiences.
+Frontend Engineer focused on React, TypeScript, frontend architecture and scalable user interfaces.
 
-Currently working on large-scale web and mobile products with React, TypeScript, GraphQL and Redux.
+I work on production web and mobile products involving complex state, GraphQL integrations, design systems, performance, and WebView-based experiences.
 
----
-
-## Tech
-
-**Frontend**
-
-React • Next.js • TypeScript • Redux • GraphQL • Tailwind CSS • SCSS
-
-**Testing & Tooling**
-
-Jest • Cypress • Git • GitHub • Vercel • CI/CD
-
-**Additional**
-
-Design Systems • WebView • Adyen • i18n • D3 • Highcharts • eCharts • AI-assisted development
+Currently interested in AI-assisted engineering workflows, advanced React architecture, interactive UI and frontend infrastructure.
 
 ---
 
-## Selected Project
+## Main stack
+
+React · TypeScript · Next.js · Redux · GraphQL · Tailwind · SCSS · Jest · Cypress · Vercel
+
+Also worked with D3, Highcharts, eCharts, Kendo UI, Adyen integrations, i18n, design systems and mobile WebView wrappers.
+
+---
+
+## Selected work
 
 ### Marta Pinedo
 
-Professional website for a law firm built with Next.js and TypeScript.
+Professional law firm website built with Next.js and TypeScript.
 
 - SEO-oriented architecture
 - Responsive UI
-- Internationalization
-- Performance-first implementation
+- Internationalization support
+- Performance-focused implementation
 
-🔗 https://www.martapinedoabogada.es
+https://www.martapinedoabogada.es
 
 ---
 
-## GitHub Activity
+## Activity
 
 <p align="center">
-  <img src="./github-metrics.svg" width="100%">
+  <img src="./metrics.plugin.calendar.svg" alt="Full GitHub commit calendar" width="100%">
 </p>
 
 ---
 
 ## Contact
 
-- GitHub: **@carlosnumber9**
+- GitHub: @carlosnumber9
 - LinkedIn: https://www.linkedin.com/in/carlos-pinedo-sanchez
